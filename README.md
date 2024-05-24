@@ -48,9 +48,7 @@ The program can be tested by following the on-screen instructions and providing 
 
 Contributors
 
-Your Name
-
-Contributor Name
+Liliane Lukong
 
 License
 
