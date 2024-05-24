@@ -172,22 +172,22 @@ Example Usage
 
 ==========================================
 
-Vehicle Information System
-1. Add a Car
-2. Add a Motorcycle
-3. Add a Truck
-4. Exit
-
-Enter your choice: 2
-Enter motorcycle make: Harley-Davidson
-Enter motorcycle model: Street 750
-Enter motorcycle year of manufacture: 2019
-Enter number of wheels: 2
-Enter motorcycle type (sport, cruiser, off-road): cruiser
-
-Vehicle Details:
-Make: Harley-Davidson
-Model: Street 750
-Year of Manufacture: 2019
-Number of Wheels: 2
-Motorcycle Type: cruiser
+		Vehicle Information System
+		1. Add a Car
+		2. Add a Motorcycle
+		3. Add a Truck
+		4. Exit
+		
+		Enter your choice: 2
+		Enter motorcycle make: Harley-Davidson
+		Enter motorcycle model: Street 750
+		Enter motorcycle year of manufacture: 2019
+		Enter number of wheels: 2
+		Enter motorcycle type (sport, cruiser, off-road): cruiser
+		
+		Vehicle Details:
+		Make: Harley-Davidson
+		Model: Street 750
+		Year of Manufacture: 2019
+		Number of Wheels: 2
+		Motorcycle Type: cruiser
