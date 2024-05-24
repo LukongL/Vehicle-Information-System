@@ -136,38 +136,24 @@ Running the Program
 Example Usage
 
 		Vehicle Information System
-
 		1. Add a Car
-		   
 		2. Add a Motorcycle
-		   
 		3. Add a Truck
-		   
 		4. Exit
 
 		Enter your choice: 1
-		
 		Enter car make: Toyota
-		
 		Enter car model: Camry
-		
 		Enter car year of manufacture: 2020
-		
 		Enter number of doors: 4
-
 		Enter fuel type (petrol, diesel, electric): petrol
 		
 		
 		Vehicle Details:
-		
 		Make: Toyota
-		
 		Model: Camry
-		
 		Year of Manufacture: 2020
-		
 		Number of Doors: 4
-
 		Fuel Type: petrol
 
 ==========================================
