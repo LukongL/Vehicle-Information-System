@@ -6,50 +6,52 @@ The Vehicle Information System is a Java program designed to efficiently manage 
 
 Features
 
-Encapsulation: Utilization of private fields and public methods to encapsulate and manage the internal state of vehicle objects securely.
-
-Modularity: Division of functionalities into separate classes for better organization, reusability, and scalability.
-
-Interfaces: Implementation of interfaces to enforce common behavior across different vehicle types, promoting consistency in data retrieval and manipulation.
-
-Interactive Command-Line Interface: Intuitive command-line interface facilitating user interaction for seamless access to vehicle information.
+	Encapsulation: Utilization of private fields and public methods to encapsulate and manage the internal state of vehicle 	objects securely.
+	
+	Modularity: Division of functionalities into separate classes for better organization, reusability, and scalability.
+	
+	Interfaces: Implementation of interfaces to enforce common behavior across different vehicle types, promoting consistency in data retrieval and manipulation.
+	
+	Interactive Command-Line Interface: Intuitive command-line interface facilitating user interaction for seamless access to vehicle information.
 
 How to Use
 
 Compile the Program:
-javac VehicleManagementSystem.java
+
+	javac VehicleManagementSystem.java
 
 Run the Program:
-java VehicleManagementSystem
+
+	java VehicleManagementSystem
 
 Follow On-Screen Instructions:
 
-Choose options to add a car, motorcycle, or truck.
-
-Enter vehicle details such as make, model, year, and specific attributes depending on the vehicle type.
-
-View vehicle details displayed on the command line.
+	Choose options to add a car, motorcycle, or truck.
+	
+	Enter vehicle details such as make, model, year, and specific attributes depending on the vehicle type.
+	
+	View vehicle details displayed on the command line.
 
 Class Structure
 
-Vehicle Interface: Defines common methods for retrieving vehicle details.
-
-Car Class: Represents a car and implements the Vehicle Interface.
-
-Motorcycle Class: Represents a motorcycle and implements the Vehicle Interface.
-
-Truck Class: Represents a truck and implements the Vehicle Interface.
-
-VehicleManagementSystem Class: Contains the main method for program execution and user interaction.
+	Vehicle Interface: Defines common methods for retrieving vehicle details.
+	
+	Car Class: Represents a car and implements the Vehicle Interface.
+	
+	Motorcycle Class: Represents a motorcycle and implements the Vehicle Interface.
+	
+	Truck Class: Represents a truck and implements the Vehicle Interface.
+	
+	VehicleManagementSystem Class: Contains the main method for program execution and user interaction.
 
 Running Tests
 
-The program can be tested by following the on-screen instructions and providing valid input for adding cars, motorcycles, and trucks. Ensure correct data types are entered to avoid input errors.
+	The program can be tested by following the on-screen instructions and providing valid input for adding cars, motorcycles, and trucks. Ensure correct data types are entered to avoid input errors.
 
 Contributors
 
-Liliane Lukong
+	Liliane Lukong
 
 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+	This project is licensed under the MIT License - see the LICENSE file for details.
